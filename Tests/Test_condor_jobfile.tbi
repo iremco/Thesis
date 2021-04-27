@@ -35,7 +35,7 @@ log = /work/scratch/coskun/logs/loc_$(cluster).$(Process)_log.log
 
 # working environments
 getenv        = True
-environment   = "working_dir=/home/students/coskun/Thesis data_dir=/home/student/coskun/Tshesis"
+environment   = "working_dir=/home/students/coskun/Thesis data_dir=/home/student/coskun/Thesis"
 
 
 ######################################################################
