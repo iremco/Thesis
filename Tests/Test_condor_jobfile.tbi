@@ -20,7 +20,7 @@
 ######################################################################
 
 # Shell script that you want to execute
-cmd = /home/students/coskun/Thesis/netTest.sh
+cmd = /home/students/coskun/Thesis/Tests/netTest.sh
 
 # command line arguments
 args =
