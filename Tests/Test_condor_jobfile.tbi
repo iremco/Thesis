@@ -79,14 +79,14 @@ requirements = (GPURAM > 5800) && (GPURAM < 20000) && POOL =="workstation" && ( 
 request_cpus = 1 
 
 # required number of GPUs
-request_gpus = 0
+request_gpus = 1
 
 # required CPU RAM
 request_memory = 4 GB
 
 # required Disk space
 
-request_disk = 5 GB
+request_disk = 10 GB
 
 # criterion after which to choose the machine
 # e.g. `rank = memory` takes machine with largest RAM
