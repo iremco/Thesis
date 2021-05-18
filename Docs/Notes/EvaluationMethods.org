@@ -1,0 +1,40 @@
+* Evaluation Metrics Used in State of the Art
+
+- Frechet Inception Distance (FID, lower is better) 
+- Inception Score (IS, higher is better)
+- Structural similarity index measure (SSIM, higher is better)
+- Peak signal-to-noise ratio definition (PSNR, higher is better)
+
+** Coco
+*** FID
+
+** SpiralNet
+*** FID
+*** IS( Inception Score)
+
+** Big Gan
+*** FID 
+*** IS
+- FID/IS values at the truncation setting whichattains the best FID
+- FID at the truncation setting for which our model’s IS isthe same as that attained by the real validation data
+- FID at the maximum IS achieved by each model, to demonstrate how much variety must be tradedoff to maximize quality.
+
+**  Boundless
+*** FID
+*** PSNR
+
+** Deep Portait Image Extrapolation
+*** L1 error
+*** PSNR
+*** SSIM
+*** FID
+
+** Wide-Context
+*** PSNR
+*** SSIM
+
+** Sie-SpiralNet
+*** SSIM
+*** PSNR
+
+
